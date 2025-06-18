@@ -24,7 +24,6 @@ This Tableau dashboard presents an exploratory data analysis of Netflix's global
 - **Excel/CSV** (Data Cleaning and Preparation)
 - **Mapbox** (for Geo Mapping in Tableau)
 
----
 
 
 ---
